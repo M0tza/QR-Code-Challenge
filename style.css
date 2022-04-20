@@ -1,6 +1,12 @@
-.attribution { 
-    font-size: 11px; text-align: center;
+#background {
+    width: 1440px;
+    height: 800px;
+    background-color: hsl(220, 15%, 55%);
 }
-.attribution a {
-    color: hsl(228, 45%, 44%);
+
+#card {
+    width: 320px;
+    height: 497px;
+    background-color: #FFFFFF
+
 }
